@@ -1,0 +1,35 @@
+{
+  "name": "sekolahyuk-app",
+  "version": "1.0.0",
+  "description": "My FullStack Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZSofttt/sekolahyuk-app.git"
+  },
+  "author": "Zahir Hadi Athallah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZSofttt/sekolahyuk-app/issues"
+  },
+  "homepage": "https://github.com/ZSofttt/sekolahyuk-app#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.3.0",
+    "exceljs": "^4.2.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "joi": "^17.3.0",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.8",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.17",
+    "nodemailer-sendgrid-transport": "^0.2.0"
+  }
+}
