@@ -104,7 +104,7 @@ let sendMail = (toId, sub, text) => {
 };
 ```
 
-### 7) Membuat Akun Admin Serta Menyettingnya
+### 9) Membuat Akun Admin Serta Menyettingnya
 
 Untuk Membuat akun admin, kalian buka file index.js di root folder, lalu
 panggil createadmin function:
@@ -124,7 +124,7 @@ var createadmin = async () => {
   });
 ```
 
-### 8) Jalani Server
+### 10) Jalani Server
 
 Buka Console NodeJS kalian, lalu ketik:
 ```
