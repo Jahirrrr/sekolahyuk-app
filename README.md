@@ -140,7 +140,7 @@ Ini adalah Project Free & Open Source, Jika Kalian Ingin Menggunakannya Untuk Ke
 ## CREDITS
 - Zahir Hadi Athallah
 
-## Donate For This Project
+## Donate For Support This Project :)
 https://saweria.co/zsoft
 
 
