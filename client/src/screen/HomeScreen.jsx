@@ -8,7 +8,7 @@
 import React, { useEffect } from 'react';
 import { useSelector } from 'react-redux';
 import { Link, Redirect } from 'react-router-dom';
-import backgroundLandingpage from './sekolahh.jpg';
+import backgroundLandingpage from './gradiasi.jpg';
 import { Col, Container, Row, Card } from 'react-bootstrap';
 
 const HomeScreen = ({ history }) => {
