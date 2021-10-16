@@ -41,12 +41,12 @@ Ikuti Step by step nya satu2 yaaaa :)
 
 ### 1) Clone Repo Ini, Atau Download Source Codenya
 ```
-git clone https://github.com/ZSofttt/SekolahYuk.git
+git clone https://github.com/ZSofttt/sekolahyuk-app.git
 ```
 
 ### 2) Ganti Direktorinya
 ```
-cd SekolahYuk
+cd sekolahyuk-app
 ```
 ### 3) Install Dependencies
 ```
